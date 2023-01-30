@@ -5,6 +5,16 @@ https://html.dreamitsolution.net/visapro/
 https://live.themewild.com/visapos/
 https://html.dreamitsolution.net/visapro/index-2.html
 
+https://kodesolution.com/html/2022/oitech-html/index.html
+https://kodesolution.com/html/2022/tronis-html/
+https://st.ourhtmldemo.com/new/Immigo/
+https://labartisan.net/demo/constol/index-3.html
+https://labartisan.net/demo/constol/index-4.html
+http://azim.commonsupport.com/Ticrou/index-onepage.html
+https://codeskdhaka.com/html/printress-prv/printress/index-2.html
+https://angfuzsoft.com/html/souler/demo/index.html
+https://html.tonatheme.com/2022/royalking/ -----Amenities
+
 
 https://listee.dreamguystech.com/html/
 https://labartisan.net/pixian/bizpoint-demo/bizpoint/index-3.html
