@@ -196,3 +196,4 @@ https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Vid
 https://templates.hibootstrap.com/ruzo/default/index-3.html
 
 https://themeforest.net/category/site-templates?page=13&sort=date#content
+https://www.templatemonster.com/html-templates.php
