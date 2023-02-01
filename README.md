@@ -116,6 +116,8 @@ https://kodesolution.com/html/2023/amiso-html/ -----pay & FAQ
 https://wpthemebooster.com/demo/themeforest/html/builderrin/light/
 https://themazine.com/mr/corpai-html/main-html/index.html----
 https://tazo-ng.hibootstrap.com/index-3
+https://archichtml.websitelayout.net/index.html
+https://unicktheme.com/korax/
 
 Amenities
 https://labartisan.net/pixian/bizpoint-demo/bizpoint/index.html
@@ -195,5 +197,5 @@ https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Def
 https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Video-Hero-Center-Header/index.html
 https://templates.hibootstrap.com/ruzo/default/index-3.html
 
-https://themeforest.net/category/site-templates?page=13&sort=date#content
+https://themeforest.net/category/site-templates?page=19&sort=date#content
 https://www.templatemonster.com/html-templates.php
