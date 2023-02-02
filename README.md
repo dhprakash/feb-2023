@@ -197,7 +197,8 @@ https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Def
 https://kalanidhithemes.com/live-preview/landing-page/delici/all-demo/Delici-Video-Hero-Center-Header/index.html
 https://templates.hibootstrap.com/ruzo/default/index-3.html
 
-
+http://www.ansonika.com/bed-and-breakfast/demos.html
+http://layerdrops.com/linoorhtml/index-dark.html
 
 
 TemMonster
