@@ -391,7 +391,20 @@ https://templates.hibootstrap.com/ruzo/default/index-3.html
 https://themeforest.net/category/site-templates?page=13&sort=date#content
 https://www.templatemonster.com/html-templates.php
 
+https://thewebmax.org/angular/logitrago/
+https://angfuzsoft.com/html/driller/demo/home-building-company.html
+https://nayratemplate.com/demo/gradiant/
+https://codeskdhaka.com/html/gardomia-prv/
+https://jetly-html.vercel.app/main-html/index.html
+https://demo.minopress.com/binpress-html/index.html
+https://template.viserlab.com/bizcon/demos/index-two.html
+https://azim.commonsupport.com/Zixtar/
+https://mixxon.omexer.com/omexo/
+https://www.wowtheme7.com/tf/transpro/
+https://corelaw-react.vercel.app/index2
+https://templates.hibotheme.com/wazo/default/index.html
 
 
-https://themeforest.net/category/site-templates?page=19&sort=date#content
+
+https://themeforest.net/category/site-templates?page=23&sort=date#content
 https://www.templatemonster.com/html-templates.php
